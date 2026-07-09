@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <a href="https://github.com/Raunakdeep">
+  <a href="https://github.com/KSG1375">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=8e2de2&center=true&vCenter=true&width=600&lines=Software+Engineer;Full-Stack+Development;AI+%26+Predictive+Analytics;President,+Gaming+Titans+Society" alt="Typing SVG" />
   </a>
 </div>
@@ -13,7 +13,7 @@
 <div align="center">
   <a href="https://www.linkedin.com/in/raunakdeep"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:INSERT_YOUR_EMAIL_HERE"><img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://github.com/Raunakdeep"><img src="https://img.shields.io/badge/GitHub-Follow-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://github.com/KSG1375"><img src="https://img.shields.io/badge/GitHub-Follow-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 </div>
 
 ---
@@ -37,16 +37,16 @@ I am a B.Tech CSE student at GTBIT (2027) and a Full-Stack Software Engineer wit
 
 ### 📊 GitHub Analytics
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Raunakdeep&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=8e2de2&icon_color=4a00e0" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Raunakdeep&theme=tokyonight&hide_border=true&background=0d1117&ring=4a00e0&fire=8e2de2&currStreakLabel=4a00e0" alt="GitHub Streak" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=KSG1375&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=8e2de2&icon_color=4a00e0" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KSG1375&theme=tokyonight&hide_border=true&background=0d1117&ring=4a00e0&fire=8e2de2&currStreakLabel=4a00e0" alt="GitHub Streak" width="48%" />
 </div>
 
 ### 🐍 Contribution Graph Snake
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Raunakdeep/Raunakdeep/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Raunakdeep/Raunakdeep/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Raunakdeep/Raunakdeep/output/github-contribution-grid-snake.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KSG1375/KSG1375/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/KSG1375/KSG1375/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/KSG1375/KSG1375/output/github-contribution-grid-snake.svg">
   </picture>
 </div>
 
